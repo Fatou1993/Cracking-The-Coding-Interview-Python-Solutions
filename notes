@@ -1,0 +1,9 @@
+ASCII = 128-character
+ASCII extended = 256-character
+ask if case sensitive for strings
+you can do some checking in loop
+ask if you sen a boolean when deleting or adding
+use iterative to get the length of a list
+odd number of elements = fast != null
+different tails => no intersection
+if they hop i, i+1 => i-1, (i+1)-2
